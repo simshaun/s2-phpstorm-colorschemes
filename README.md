@@ -12,7 +12,7 @@
 
 ## Windows
 
-`C:\Users\\{{username}}\.WebIde50\config\colors\`
+`C:\Users\{{username}}\.WebIde50\config\colors\`
 
 ## Linux
 
