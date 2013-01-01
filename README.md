@@ -5,7 +5,7 @@
 
 # Compatibility
 
-**Symfony2.xml:** PhpStorm 5.0.2
+**Symfony2.xml:** PhpStorm 5.x & PhpStorm 6.x
 
 
 # Installation
