@@ -182,6 +182,16 @@
         <option name="FOREGROUND" value="ff0000" />
       </value>
     </option>
+    <option name="CONSOLE_GRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="929292" />
+      </value>
+    </option>
+    <option name="CONSOLE_GREEN_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ce00" />
+      </value>
+    </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
         <option name="FOREGROUND" value="f7f7f7" />
@@ -190,6 +200,12 @@
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
         <option name="FOREGROUND" value="a6a6a6" />
+      </value>
+    </option>
+    <option name="CONSOLE_USER_INPUT">
+      <value>
+        <option name="FOREGROUND" value="ce00" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CSS.COMMENT">
@@ -969,6 +985,11 @@
       <value>
         <option name="FOREGROUND" value="56db3a" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LOG_EXPIRED_ENTRY">
+      <value>
+        <option name="FOREGROUND" value="929292" />
       </value>
     </option>
     <option name="Line comment">
