@@ -2,6 +2,8 @@
 
 **Symfony2.xml:** Created in an attempt to mimic the color scheme seen in examples throughout the Symfony2 docs.
 
+![Symfony2 Color Scheme](symfony2.jpg)
+
 
 # Compatibility
 
